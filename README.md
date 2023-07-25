@@ -3,7 +3,8 @@ IBM HR Tableau Dashboard Visualization
 **Project Description: IBM HR Tableau Dashboard Visualization**
 The IBM HR Tableau Dashboard Visualization is a comprehensive project designed to analyze and showcase various key insights about the company's workforce. This interactive dashboard aims to provide better understanding and insights for HR management and organization leaders.
 
-**Key Insights**
+**Key Insights**![IBM HR dashboard](https://github.com/harshali-2001/Ibm-Hr-dashboard-tableau-/assets/68239595/8a7948b0-a81c-4f04-847e-283884879011)
+
 The IBM HR Tableau Dashboard Visualization includes various key insights such as:
 
 Average age by department and job role: This insight helps to identify the age distribution per department and job role in the company.
